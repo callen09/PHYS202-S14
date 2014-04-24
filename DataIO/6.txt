@@ -1,0 +1,3 @@
+# Details for Picture 6 http://imgsrc.hubblesite.org/hu/db/images/hs-1999-30-b-full_jpg.jpg
+# Stars = 320
+# Position of Stars(x,y) and Brightness

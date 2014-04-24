@@ -1,0 +1,3 @@
+# Details for Picture 5 http://imgsrc.hubblesite.org/hu/db/images/hs-2002-10-c-large_web.jpg
+# Stars = 246
+# Position of Stars(x,y) and Brightness

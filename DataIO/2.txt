@@ -1,0 +1,3 @@
+# Details for Picture 2 http://imgsrc.hubblesite.org/hu/db/images/hs-1993-13-a-large_web.jpg
+# Stars = 72
+# Position of Stars(x,y) and Brightness
